@@ -12,13 +12,7 @@ void (*get_op_func(char *s))(stack_t **head, unsigned int line_number)
 	int x = 0;
 	instruction_t opcodes[] = {
 				{"push", push},
-				{"pall", pall},
-				{"pint", pint},
-				{"pop", pop},
-				{"add", add},
-				{"swap", swap},
-				{"nop", nop},
-				{"sub", sub}
+				{"pall", pall}
 	};
 
 	while (x < 8)
