@@ -141,7 +141,7 @@ where is the line number where the instruction appears.
 - You have to use malloc and free and are not allowed to use any other function from man malloc (realloc, calloc, …)
 ## Tasks
 <table>
- <thead>
+ <thead bgcolor = #999999>
   <tr>
    <th align = "left">0. push, pall</th>
   </tr>
