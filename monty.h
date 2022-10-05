@@ -57,6 +57,7 @@ void set_op_tok_error(int error_code);
 /* Task Prototypes */
 void monty_push(stack_t **stack, unsigned int line_number);
 void monty_pall(stack_t **stack, unsigned int line_number);
+void monty_print(stack_t **stack, unsigned int line_number);
 
 /* Error handler functions */
 int usage_error(void);
