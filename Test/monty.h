@@ -44,7 +44,6 @@ char *push_data;
 /* Prototypes */
 char **tokenize(char *s);
 void (*get_op_func(char *s))(stack_t **stack, unsigned int line_number);
-int stack_len(stack_t **stack);
 void free_stack(stack_t *stack);
 
 /* Task funtions */
