@@ -1,6 +1,6 @@
 # Monty Project
 This is a project aimed for the undersatdning of Stacks (LIFO) and Queues (FIFO) and the usage of EXTERN in `C`.
-![The image]('https://pbs.twimg.com/media/CFYYWy6UEAE9Ow-.png')
+![The image](https://pbs.twimg.com/media/CFYYWy6UEAE9Ow-.png)
 ## Resources
 ### Read or watch:
 
